@@ -1,1 +1,1 @@
-{"version":1,"defects":{"SampleTest::testTrueAssertToTrue":3},"times":{"SampleTest::testTrueAssertToTrue":0.024}}
+{"version":1,"defects":{"SampleTest::testTrueAssertToTrue":3,"CollectionClassTest::testTrueAssertToTrue":3},"times":{"SampleTest::testTrueAssertToTrue":0,"CollectionClassTest::testTrueAssertToTrue":0.118}}
